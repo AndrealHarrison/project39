@@ -16,6 +16,7 @@
 		44AD89C529FC5252006670B2 /* Project39_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AD89C429FC5252006670B2 /* Project39_Tests.swift */; };
 		44AD89CF29FC5252006670B2 /* Project39_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AD89CE29FC5252006670B2 /* Project39_UITests.swift */; };
 		44AD89D129FC5252006670B2 /* Project39_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AD89D029FC5252006670B2 /* Project39_UITestsLaunchTests.swift */; };
+		44AD89DE29FC527B006670B2 /* plays.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44AD89DD29FC527B006670B2 /* plays.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		44AD89CA29FC5252006670B2 /* Project39_UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project39_UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		44AD89CE29FC5252006670B2 /* Project39_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project39_UITests.swift; sourceTree = "<group>"; };
 		44AD89D029FC5252006670B2 /* Project39_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project39_UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		44AD89DD29FC527B006670B2 /* plays.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = plays.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				44AD89B629FC5252006670B2 /* Assets.xcassets */,
 				44AD89B829FC5252006670B2 /* LaunchScreen.storyboard */,
 				44AD89BB29FC5252006670B2 /* Info.plist */,
+				44AD89DD29FC527B006670B2 /* plays.txt */,
 			);
 			path = Project39_;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44AD89DE29FC527B006670B2 /* plays.txt in Resources */,
 				44AD89BA29FC5252006670B2 /* LaunchScreen.storyboard in Resources */,
 				44AD89B729FC5252006670B2 /* Assets.xcassets in Resources */,
 				44AD89B529FC5251006670B2 /* Main.storyboard in Resources */,
