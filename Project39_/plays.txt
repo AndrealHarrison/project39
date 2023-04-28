@@ -1,11 +1,3 @@
-//
-//  plays.txt
-//  Project39_
-//
-//  Created by Andrea Harrison on 4/28/23.
-//
-
-
 ALL'S WELL THAT ENDS WELL
 
 ACT I
