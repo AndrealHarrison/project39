@@ -17,6 +17,7 @@
 		44AD89CF29FC5252006670B2 /* Project39_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AD89CE29FC5252006670B2 /* Project39_UITests.swift */; };
 		44AD89D129FC5252006670B2 /* Project39_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AD89D029FC5252006670B2 /* Project39_UITestsLaunchTests.swift */; };
 		44AD89DE29FC527B006670B2 /* plays.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44AD89DD29FC527B006670B2 /* plays.txt */; };
+		44AD89E029FC5422006670B2 /* PlayData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44AD89DF29FC5422006670B2 /* PlayData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		44AD89CE29FC5252006670B2 /* Project39_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project39_UITests.swift; sourceTree = "<group>"; };
 		44AD89D029FC5252006670B2 /* Project39_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project39_UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		44AD89DD29FC527B006670B2 /* plays.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = plays.txt; sourceTree = "<group>"; };
+		44AD89DF29FC5422006670B2 /* PlayData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				44AD89B829FC5252006670B2 /* LaunchScreen.storyboard */,
 				44AD89BB29FC5252006670B2 /* Info.plist */,
 				44AD89DD29FC527B006670B2 /* plays.txt */,
+				44AD89DF29FC5422006670B2 /* PlayData.swift */,
 			);
 			path = Project39_;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44AD89B229FC5251006670B2 /* ViewController.swift in Sources */,
+				44AD89E029FC5422006670B2 /* PlayData.swift in Sources */,
 				44AD89AE29FC5251006670B2 /* AppDelegate.swift in Sources */,
 				44AD89B029FC5251006670B2 /* SceneDelegate.swift in Sources */,
 			);
